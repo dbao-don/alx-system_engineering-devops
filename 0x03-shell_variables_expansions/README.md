@@ -1,4 +1,8 @@
 # 0x03. Shell, init files, variables and expansions
+This section contains shell scripts and initialization files that define and set environment variables and perform expansions. It provides a collection of tools and settings for managing and customizing the shell environment.
+## Tasks
+| Tasks | Description |
+|:--|:--|
 | 0-alias | script that creates an alias. |
 | 1-hello_you | script that prints hello user, where user is the current Linux user. |
 | 2-path | Add /action to the PATH. |
